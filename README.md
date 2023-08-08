@@ -13,11 +13,12 @@
 <div>
 	<img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
 	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
-	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
 	<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 	<img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
 </div>
 <a href="mailto:﻿"wonbin1301@gmail.com" target="_blank"><img src="https://img.shields.io/badge/wonbin1301@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanakong&show_icons=true&theme=radical)
 
 <!--
 **hanakong/hanakong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
