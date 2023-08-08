@@ -18,7 +18,7 @@
 </div>
 <a href="mailto:﻿"wonbin1301@gmail.com" target="_blank"><img src="https://img.shields.io/badge/wonbin1301@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanakong&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanakong&show_icons=true&theme=dracula)
 
 <!--
 **hanakong/hanakong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
