@@ -16,7 +16,7 @@
 	<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 	<img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
 </div>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/wonbin1301@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="wonbin1301@gmail.com" target="_blank"><img src="https://img.shields.io/badge/wonbin1301@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 <!--
 **hanakong/hanakong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
