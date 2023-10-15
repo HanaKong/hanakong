@@ -1,5 +1,11 @@
-### Hi there 👋
+### 29살에 개발을 시작하였습니다.
 ---
+
+### 프로젝트
+|PERIOD|TITLE|SUBJECT|
+|-----|-----|-----|
+|2023.06.28-08.01|레고 쇼핑몰(개인 프로젝트)|레고 공식 쇼핑몰의 리뉴얼|
+
 
 
 <div>PlatForm & Language</div>
@@ -17,18 +23,3 @@
 	<img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
 </div>
 <a href="mailto:﻿"wonbin1301@gmail.com" target="_blank"><img src="https://img.shields.io/badge/wonbin1301@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-
-<!--
-**hanakong/hanakong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
